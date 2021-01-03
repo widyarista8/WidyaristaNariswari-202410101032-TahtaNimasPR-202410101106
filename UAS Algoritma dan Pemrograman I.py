@@ -1,5 +1,5 @@
 # WidyaristaNariswari-202410101032-TahtaNimasPR-202410101106
-UAS Algoritma dan Pemrograman I
+#UAS Algoritma dan Pemrograman I
 
 import json 
 from datetime import datetime as waktu 
